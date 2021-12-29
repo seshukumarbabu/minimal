@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Seshu Kumar Bangaru </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/seshukumarbabu/">LinkedIn</a> |
+  <a href="https://github.com/seshukumarbabu">GitHub</a>
+  
+  <br>   
+  Vice President ​ with over 17+ years of IT experience, ​ with commendable
+Leadership & Interpersonal skills. 
+ . A Solution Architect with Java/Python fullstack
+ . 10+ Years of experience in E/CTRM Domain
+ . A Budding Data Scientist
+
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
